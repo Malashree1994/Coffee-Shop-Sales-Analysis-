@@ -14,3 +14,4 @@ KPI’S REQUIREMENTS :
 •	Calculate the total quantity sold for each respective month.
 •	Determine the month-on-month increase or decrease in quantity.
 •	Calculate the difference in the quantity sold between the selected month previous month.
+https://github.com/Malashree1994/Coffee-Shop-Sales-Analysis-/blob/main/Coffee%20shop%20sales.png

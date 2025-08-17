@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analysis-
+# Coffee-Shop-Sales-Analysis using SQL
 
 KPI’S REQUIREMENTS :
 1.Total Sales Analysis:

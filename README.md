@@ -2,11 +2,15 @@
 
 KPI’S REQUIREMENTS :
 1.Total Sales Analysis:
+
 •	Calculate the total sales for each respective month.
+
 •	Determine the month-on-month increase or decrease in sales.
+
 •	Calculate the difference in sales between the selected month and previous month.
 
 2.Total Orders Analysis:
+
 •	Calculate the total number of orders for each respective month.
 
 •	Determine the month-on-month increase or decrease in orders.
@@ -20,5 +24,5 @@ KPI’S REQUIREMENTS :
 
 •	Calculate the difference in the quantity sold between the selected month previous month.
 
-<img width="627" height="507" alt="Coffee shop sales" src="https://github.com/user-attachments/assets/387bed08-4b9d-4871-af29-b8883cb7d568" />
+<img width="627" height="307" alt="Coffee shop sales" src="https://github.com/user-attachments/assets/387bed08-4b9d-4871-af29-b8883cb7d568" />
 

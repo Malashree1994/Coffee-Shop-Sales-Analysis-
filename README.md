@@ -1,6 +1,7 @@
 # Coffee-Shop-Sales-Analysis using SQL
 
 KPI’S REQUIREMENTS :
+
 1.Total Sales Analysis:
 
 •	Calculate the total sales for each respective month.
@@ -18,6 +19,7 @@ KPI’S REQUIREMENTS :
 •	Calculate the difference in the number  of orders between the selected month previous month.
 
 3.Total Quantity Sold Analysis:
+
 •	Calculate the total quantity sold for each respective month.
 
 •	Determine the month-on-month increase or decrease in quantity.
